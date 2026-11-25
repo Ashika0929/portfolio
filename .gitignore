@@ -1,4 +1,11 @@
 node_modules/
-.DS_Store
-Thumbs.db
 *.log
+test_render.html
+run_pdf_renderer.js
+render_certs.js
+inspect_pdfs.js
+extract_jpg.js
+crop_photo.js
+extracted_*
+test.png
+.DS_Store
